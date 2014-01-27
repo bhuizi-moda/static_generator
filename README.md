@@ -16,7 +16,7 @@ installation
 <pre>
   <code>
     cd into your directory
-    git clone < this project >
+    git clone |this project|
     bundle install
     cd into /source
     middleman server
@@ -33,8 +33,14 @@ windows 7
 * windows livereload issue outlined [here](https://github.com/middleman/middleman-livereload/issues/26)
 <pre>
 	<code>
-     activate :livereload, :host => '127.0.0.1' // this is necessary for getting livereload working
-                                                // on windows addresss should be: http://127.0.0.1:4567/
+     activate :livereload, :host => '127.0.0.1'
+     // this is necessary for getting livereload working
+        on windows addresss should be: http://127.0.0.1:4567/
 
 	</code>
 </pre>
+
+helpful links
+-----------------
+*  [haml docs](http://haml.info/docs/yardoc/file.REFERENCE.html)
+*  [sass docs](http://sass-lang.com/documentation/file.SASS_REFERENCE.html)
