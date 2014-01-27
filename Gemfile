@@ -2,8 +2,7 @@
 gem "middleman", "~>3.2.1"
 
 # Live-reloading plugin
-gem "middleman-livereload", "~> 3.1.0"
-
+gem "middleman-livereload"
 # Gumby framework
 gem "middleman-gumby"
 

@@ -27,3 +27,14 @@ trouble shooting
 ----------------
 
 * most things come down to bundle install
+
+windows 7
+-----------------
+* windows livereload issue outlined [here](https://github.com/middleman/middleman-livereload/issues/26)
+<pre>
+	<code>
+     activate :livereload, :host => '127.0.0.1' // this is necessary for getting livereload working
+                                                // on windows addresss should be: http://127.0.0.1:4567/
+
+	</code>
+</pre>
