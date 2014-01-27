@@ -44,3 +44,4 @@ helpful links
 -----------------
 *  [haml docs](http://haml.info/docs/yardoc/file.REFERENCE.html)
 *  [sass docs](http://sass-lang.com/documentation/file.SASS_REFERENCE.html)
+*  [building with middleman article](http://12devs.co.uk/articles/204/)
